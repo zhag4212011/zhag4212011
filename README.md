@@ -1,1 +1,1 @@
-bash cd /etc/sysconfig/network-scripts
+# cd /etc/sysconfig/network-scripts

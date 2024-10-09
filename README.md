@@ -2,8 +2,10 @@
 ```
  cd /etc/sysconfig/network-scripts
 ```
-### vi ifcfg-eth0
+###
+vi ifcfg-eth0
 ```
-### 240E:F7:A020:203::8:1
+### 
+240E:F7:A020:203::8:1
 ```
  

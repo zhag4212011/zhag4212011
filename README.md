@@ -1,9 +1,9 @@
 # centos网关配置
 ```## 
- cd /etc/sysconfig/network-scripts
+cd /etc/sysconfig/network-scripts
 ```
-```
-##  vi ifcfg-eth0
+```##  
+vi ifcfg-eth0
 ```
 ```
 

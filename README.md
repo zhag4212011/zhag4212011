@@ -1,5 +1,5 @@
 # cd /etc/sysconfig/network-scripts
-# vi ifcfg-eth0
+### vi ifcfg-eth0
 # 240E:F7:A020:203::8:1
  <th>名称</th>
     <th>网址</th>
